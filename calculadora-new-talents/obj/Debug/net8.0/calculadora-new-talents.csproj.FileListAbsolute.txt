@@ -1,0 +1,14 @@
+C:\xampp\htdocs\calc\calculadora-new-talents\bin\Debug\net8.0\calculadora-new-talents.exe
+C:\xampp\htdocs\calc\calculadora-new-talents\bin\Debug\net8.0\calculadora-new-talents.deps.json
+C:\xampp\htdocs\calc\calculadora-new-talents\bin\Debug\net8.0\calculadora-new-talents.runtimeconfig.json
+C:\xampp\htdocs\calc\calculadora-new-talents\bin\Debug\net8.0\calculadora-new-talents.dll
+C:\xampp\htdocs\calc\calculadora-new-talents\bin\Debug\net8.0\calculadora-new-talents.pdb
+C:\xampp\htdocs\calc\calculadora-new-talents\obj\Debug\net8.0\calculadora-new-talents.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\calc\calculadora-new-talents\obj\Debug\net8.0\calculadora-new-talents.AssemblyInfoInputs.cache
+C:\xampp\htdocs\calc\calculadora-new-talents\obj\Debug\net8.0\calculadora-new-talents.AssemblyInfo.cs
+C:\xampp\htdocs\calc\calculadora-new-talents\obj\Debug\net8.0\calculadora-new-talents.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\calc\calculadora-new-talents\obj\Debug\net8.0\calculadora-new-talents.dll
+C:\xampp\htdocs\calc\calculadora-new-talents\obj\Debug\net8.0\refint\calculadora-new-talents.dll
+C:\xampp\htdocs\calc\calculadora-new-talents\obj\Debug\net8.0\calculadora-new-talents.pdb
+C:\xampp\htdocs\calc\calculadora-new-talents\obj\Debug\net8.0\calculadora-new-talents.genruntimeconfig.cache
+C:\xampp\htdocs\calc\calculadora-new-talents\obj\Debug\net8.0\ref\calculadora-new-talents.dll
